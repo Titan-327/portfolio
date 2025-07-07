@@ -69,11 +69,12 @@ function AboutPage() {
             — Software Development Engineer Intern (Remote)<br />
             <span className="text-xs text-gray-400">May 2025 – July 2025</span>
           </p>
-          <ul className="list-disc list-inside text-sm text-gray-400 space-y-1 mt-3">
-            <li>Developed & integrated 10+ modular Pipedream workflows for event-driven automation.</li>
-            <li>Implemented OAuth 2.0 for secure access to Google Calendar & Docs in workflows.</li>
-            <li>Built a secure PDF upload system using Firebase Firestore with robust error handling.</li>
-          </ul>
+           <ul className="list-disc list-inside text-sm text-gray-400 space-y-1 mt-3">
+  <li>Built 10+ modular Pipedream workflows to automate Gmail, Google Sheets, Calendar, and GitHub tasks.</li>
+  <li>Used OpenAI, Gemini, and Cheerio for smart automation, content generation, and web scraping.</li>
+  <li>Implemented OAuth 2.0 for secure access to Google Calendar and Docs APIs.</li>
+  <li>Created a secure PDF upload feature using Firebase with role-based access and error handling.</li>
+</ul>
         </motion.div>
 
         {/* Tech Stack */}
